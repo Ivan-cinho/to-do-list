@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  color: black;
+  background-color: white;
+  font-family: Lato, sans-serif;
+  margin-top: 1em
+}
+
+.app {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+/* lista de tareas */
+
+.listaDeTareasPrincipal {
+  width: 600px;
+  min-height: 500px;
+  background-color: #979595;
+  padding: 25px;
+  margin: 10px;
+
+  border-radius: 26px;
+}

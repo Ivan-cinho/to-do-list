@@ -1,0 +1,16 @@
+
+.todoLogoContenedor{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+    }
+
+.todoLogo{
+    width: 80px;
+
+    }
+
+.tituloDeHeader {
+    font-size: 2em;
+}
